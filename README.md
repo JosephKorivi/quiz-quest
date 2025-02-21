@@ -52,7 +52,7 @@ Contributions are welcome! If you'd like to contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or feedback, feel free to reach out to *Joseph Korivi* via GitHub or email.
+For any questions or feedback, feel free to reach out to *[Joseph Korivi](https://github.com/JosephKorivi)* via GitHub or email.
 
 ---
 Enjoy playing **QUIZQUEST** and test your knowledge under pressure!
